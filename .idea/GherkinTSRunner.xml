@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Gherkin TS Runner">
+    <option name="scenarioRegex" value="" />
+    <option name="featureRegex" value="" />
+    <option name="protractorCmdPath" value="" />
+    <option name="protractorConfigJsPath" value="" />
+    <option name="featuresDirPath" value="" />
+  </component>
+</project>
